@@ -4,7 +4,7 @@
 ## PERGUNTAS
 
 ● O seu protótipo é descartável ou evolucionário? Justifique.
-     `Descartável pois o protótipo foi apenas para ajudar a levantar os requisitos e não será refinado.`
+     `Evolucionário, pois o protótipo irá servir para o desenvolvimento do app até o final do mesmo.`
   
 ● Quais as características da linguagem escolhida fazem ela apropriada para o
 desenvolvimento de um protótipo?
